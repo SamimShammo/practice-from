@@ -1,0 +1,15 @@
+.width{
+    width: 40%;
+    height: 500px;
+    padding: 20px;
+    background-color: rgba(15, 227, 255, 0.931);
+    border-radius: 20px;
+}
+.login-from{
+    margin: 50px;
+    
+}
+.social-media{
+    margin-top: 100px;
+    text-align: center;
+}
